@@ -1,0 +1,8 @@
+rootProject.name = 'java_lectures_examples'
+include 'Lecture 1'
+include 'Lecture 2'
+include 'Lecture 3'
+include 'Lecture 4'
+include 'Lecture 5'
+include 'Lecture 6'
+

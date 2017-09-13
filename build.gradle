@@ -1,0 +1,62 @@
+
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+task customZip(type: Zip) {
+    from ('.') {
+        include '**/*.java'
+        into 'archyvas'
+    }
+    baseName = 'Java_source_code'
+}
+allprojects {
+    group 'vilniaus.kolegija.elektronikos.ir.informatikos.fakultetas'
+    version '1.0-SNAPSHOT'
+    apply plugin: 'java'
+    sourceCompatibility = 1.8
+
+
+    artifacts {
+        archives customZip
+    }
+
+    task hello {
+        doLast { task ->
+            println "I'm $task.project.name"
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+
+dependencies {
+    testCompile "junit:junit:4.12"
+}
+
+subprojects {
+    group 'vilniaus.kolegija.elektronikos.ir.informatikos.fakultetas'
+    version '1.0-SNAPSHOT'
+    apply plugin: 'java'
+
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        testCompile group: 'junit', name: 'junit', version: '4.12'
+    }
+    hello {
+        doLast {
+            println "- As priklausau nuo root projekto"
+        }
+    }
+}
+project(':Lecture 1').hello {
+    doLast {
+        println "Sis projektas yra pirmasis ir sveikinasi su jumis : ) "
+    }
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="java_lectures_examples_main" target="1.8" />
+      <module name="java_lectures_examples_test" target="1.8" />
+      <module name="Lecture_1_main" target="1.8" />
+      <module name="Lecture_1_test" target="1.8" />
+      <module name="Lecture_2_main" target="1.8" />
+      <module name="Lecture_2_test" target="1.8" />
+      <module name="Lecture_3_main" target="1.8" />
+      <module name="Lecture_3_test" target="1.8" />
+      <module name="Lecture_4_main" target="1.8" />
+      <module name="Lecture_4_test" target="1.8" />
+      <module name="Lecture_5_main" target="1.8" />
+      <module name="Lecture_5_test" target="1.8" />
+      <module name="Lecture_6_main" target="1.8" />
+      <module name="Lecture_6_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
