@@ -5,16 +5,30 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Lecture 1" />
+            <option value="$PROJECT_DIR$/Lecture 10" />
+            <option value="$PROJECT_DIR$/Lecture 11" />
+            <option value="$PROJECT_DIR$/Lecture 12" />
+            <option value="$PROJECT_DIR$/Lecture 13" />
+            <option value="$PROJECT_DIR$/Lecture 14" />
+            <option value="$PROJECT_DIR$/Lecture 15" />
+            <option value="$PROJECT_DIR$/Lecture 16" />
+            <option value="$PROJECT_DIR$/Lecture 17" />
+            <option value="$PROJECT_DIR$/Lecture 18" />
+            <option value="$PROJECT_DIR$/Lecture 19" />
             <option value="$PROJECT_DIR$/Lecture 2" />
+            <option value="$PROJECT_DIR$/Lecture 20" />
             <option value="$PROJECT_DIR$/Lecture 3" />
             <option value="$PROJECT_DIR$/Lecture 4" />
             <option value="$PROJECT_DIR$/Lecture 5" />
             <option value="$PROJECT_DIR$/Lecture 6" />
+            <option value="$PROJECT_DIR$/Lecture 7" />
+            <option value="$PROJECT_DIR$/Lecture 8" />
+            <option value="$PROJECT_DIR$/Lecture 9" />
+            <option value="$PROJECT_DIR$/Lecture11" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />

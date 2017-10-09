@@ -3,15 +3,65 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 1.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 10.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 11.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 12.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 13.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 14.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 15.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 16.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 17.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 18.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 19.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 19.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 2.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 20.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 20.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 3.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 4.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 5.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 6.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 7.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 8.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 9.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture11/Lecture11.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture11/Lecture11.iml" group="Lecture11" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture11/Lecture11_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture11/Lecture11_main.iml" group="Lecture11" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture11/Lecture11_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture11/Lecture11_test.iml" group="Lecture11" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 1/Lecture_1.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 1/Lecture_1.iml" group="Lecture 1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 10/Lecture_10.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 10/Lecture_10.iml" group="Lecture 10" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 10/Lecture_10_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 10/Lecture_10_main.iml" group="Lecture 10" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 10/Lecture_10_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 10/Lecture_10_test.iml" group="Lecture 10" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 11/Lecture_11.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 11/Lecture_11.iml" group="Lecture 11" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 11/Lecture_11_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 11/Lecture_11_main.iml" group="Lecture 11" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 11/Lecture_11_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 11/Lecture_11_test.iml" group="Lecture 11" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 12/Lecture_12.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 12/Lecture_12.iml" group="Lecture 12" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 12/Lecture_12_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 12/Lecture_12_main.iml" group="Lecture 12" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 12/Lecture_12_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 12/Lecture_12_test.iml" group="Lecture 12" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 13/Lecture_13.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 13/Lecture_13.iml" group="Lecture 13" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 13/Lecture_13_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 13/Lecture_13_main.iml" group="Lecture 13" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 13/Lecture_13_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 13/Lecture_13_test.iml" group="Lecture 13" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 14/Lecture_14.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 14/Lecture_14.iml" group="Lecture 14" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 14/Lecture_14_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 14/Lecture_14_main.iml" group="Lecture 14" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 14/Lecture_14_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 14/Lecture_14_test.iml" group="Lecture 14" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 15/Lecture_15.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 15/Lecture_15.iml" group="Lecture 15" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 15/Lecture_15_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 15/Lecture_15_main.iml" group="Lecture 15" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 15/Lecture_15_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 15/Lecture_15_test.iml" group="Lecture 15" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 16/Lecture_16.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 16/Lecture_16.iml" group="Lecture 16" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 16/Lecture_16_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 16/Lecture_16_main.iml" group="Lecture 16" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 16/Lecture_16_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 16/Lecture_16_test.iml" group="Lecture 16" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 17/Lecture_17.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 17/Lecture_17.iml" group="Lecture 17" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 17/Lecture_17_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 17/Lecture_17_main.iml" group="Lecture 17" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 17/Lecture_17_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 17/Lecture_17_test.iml" group="Lecture 17" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 18/Lecture_18.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 18/Lecture_18.iml" group="Lecture 18" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 18/Lecture_18_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 18/Lecture_18_main.iml" group="Lecture 18" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 18/Lecture_18_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 18/Lecture_18_test.iml" group="Lecture 18" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 19/Lecture_19.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 19/Lecture_19.iml" group="Lecture 19" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 19/Lecture_19_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 19/Lecture_19_main.iml" group="Lecture 19" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 19/Lecture_19_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 19/Lecture_19_test.iml" group="Lecture 19" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 1/Lecture_1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 1/Lecture_1_main.iml" group="Lecture 1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 1/Lecture_1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 1/Lecture_1_test.iml" group="Lecture 1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 2/Lecture_2.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 2/Lecture_2.iml" group="Lecture 2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 20/Lecture_20.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 20/Lecture_20.iml" group="Lecture 20" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 20/Lecture_20_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 20/Lecture_20_main.iml" group="Lecture 20" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 20/Lecture_20_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 20/Lecture_20_test.iml" group="Lecture 20" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 2/Lecture_2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 2/Lecture_2_main.iml" group="Lecture 2" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 2/Lecture_2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 2/Lecture_2_test.iml" group="Lecture 2" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 3/Lecture_3.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 3/Lecture_3.iml" group="Lecture 3" />
@@ -26,6 +76,15 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 6/Lecture_6.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 6/Lecture_6.iml" group="Lecture 6" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 6/Lecture_6_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 6/Lecture_6_main.iml" group="Lecture 6" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 6/Lecture_6_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 6/Lecture_6_test.iml" group="Lecture 6" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 7/Lecture_7.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 7/Lecture_7.iml" group="Lecture 7" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 7/Lecture_7_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 7/Lecture_7_main.iml" group="Lecture 7" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 7/Lecture_7_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 7/Lecture_7_test.iml" group="Lecture 7" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 8/Lecture_8.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 8/Lecture_8.iml" group="Lecture 8" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 8/Lecture_8_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 8/Lecture_8_main.iml" group="Lecture 8" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 8/Lecture_8_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 8/Lecture_8_test.iml" group="Lecture 8" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 9/Lecture_9.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 9/Lecture_9.iml" group="Lecture 9" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 9/Lecture_9_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 9/Lecture_9_main.iml" group="Lecture 9" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lecture 9/Lecture_9_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lecture 9/Lecture_9_test.iml" group="Lecture 9" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_lectures_examples.iml" filepath="$PROJECT_DIR$/.idea/modules/java_lectures_examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_lectures_examples_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java_lectures_examples_main.iml" group="java_lectures_examples" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_lectures_examples_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java_lectures_examples_test.iml" group="java_lectures_examples" />

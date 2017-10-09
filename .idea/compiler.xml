@@ -4,8 +4,32 @@
     <bytecodeTargetLevel>
       <module name="java_lectures_examples_main" target="1.8" />
       <module name="java_lectures_examples_test" target="1.8" />
+      <module name="Lecture11_main" target="1.8" />
+      <module name="Lecture11_test" target="1.8" />
+      <module name="Lecture_10_main" target="1.8" />
+      <module name="Lecture_10_test" target="1.8" />
+      <module name="Lecture_11_main" target="1.8" />
+      <module name="Lecture_11_test" target="1.8" />
+      <module name="Lecture_12_main" target="1.8" />
+      <module name="Lecture_12_test" target="1.8" />
+      <module name="Lecture_13_main" target="1.8" />
+      <module name="Lecture_13_test" target="1.8" />
+      <module name="Lecture_14_main" target="1.8" />
+      <module name="Lecture_14_test" target="1.8" />
+      <module name="Lecture_15_main" target="1.8" />
+      <module name="Lecture_15_test" target="1.8" />
+      <module name="Lecture_16_main" target="1.8" />
+      <module name="Lecture_16_test" target="1.8" />
+      <module name="Lecture_17_main" target="1.8" />
+      <module name="Lecture_17_test" target="1.8" />
+      <module name="Lecture_18_main" target="1.8" />
+      <module name="Lecture_18_test" target="1.8" />
+      <module name="Lecture_19_main" target="1.8" />
+      <module name="Lecture_19_test" target="1.8" />
       <module name="Lecture_1_main" target="1.8" />
       <module name="Lecture_1_test" target="1.8" />
+      <module name="Lecture_20_main" target="1.8" />
+      <module name="Lecture_20_test" target="1.8" />
       <module name="Lecture_2_main" target="1.8" />
       <module name="Lecture_2_test" target="1.8" />
       <module name="Lecture_3_main" target="1.8" />
@@ -16,6 +40,12 @@
       <module name="Lecture_5_test" target="1.8" />
       <module name="Lecture_6_main" target="1.8" />
       <module name="Lecture_6_test" target="1.8" />
+      <module name="Lecture_7_main" target="1.8" />
+      <module name="Lecture_7_test" target="1.8" />
+      <module name="Lecture_8_main" target="1.8" />
+      <module name="Lecture_8_test" target="1.8" />
+      <module name="Lecture_9_main" target="1.8" />
+      <module name="Lecture_9_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
